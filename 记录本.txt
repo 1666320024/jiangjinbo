@@ -2,4 +2,4 @@
 
 2、克隆远程仓库:git clone [url]
 
-3
+3、推送本地更改到远程:git push [remote] [branch]
